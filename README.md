@@ -1,4 +1,4 @@
-# Simple startup script for OS X that sets you MTU below the default specs immediately & @ boot. Installs a plist in /Library/LaunchDaemons and a script in /Library/StartupItems. Default MTU=600 on network adapter en0.
+# Simple startup script for OS X that sets your MTU below the default specs immediately & @ boot. Installs a plist in /Library/LaunchDaemons and a script in /Library/StartupItems. Default MTU=600 on network adapter en0.
 
 - Paste this one liner in a terminal window to install (Scroll all the way to the right when copying the code):
 
