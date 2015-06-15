@@ -28,3 +28,7 @@ done
 #change from default 1500
 /sbin/ifconfig en0 mtu 600 up > /dev/null
 echo "Network settings optimized for Broadband Connection"
+
+#few other ways to change MTU on OS X
+#networksetup -setMTU en0 600
+#ifconfig en0 mtu 600
